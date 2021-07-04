@@ -2,11 +2,11 @@
 
 **Website : [PaintJS](https://dayeon1351.github.io/PaintJS/)**
 
-# 기술스택
+## 기술스택
 + HTML/CSS
 + JavaScript
 
-# 기능
+## 기능
 1. 캔버스에 그림 그리기
 2. 캔버스 색 채우기
 3. 캔버스 이미지 저장
